@@ -50,7 +50,6 @@
     display: flex;
     flex-direction: column;
 }
-
 .coin-info ul{
     display: flex;
     justify-content: space-between;
